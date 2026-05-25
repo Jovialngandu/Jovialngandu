@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Jovial Ngandu!
 
-<!--
-**Jovialngandu/Jovialngandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & systems developer focused on building scalable software.
 
-Here are some ideas to get you started:
+I build experimental software, AI-powered systems, realtime communication tools and developer infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building robust and efficient applications, exploring innovative ideas, and continuously learning new technologies to push my skills further.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, PHP  
+**Backend & Frameworks:** Django REST Framework, Fastapi,Laravel  
+**Mobile & Desktop:** React Native, Electron.js  
+**Database:** SQL  
+**Other:** Linux, UML
+
+---
+
+## 🌱 Currently Learning
+
+- Rust 🦀
+- FreeSWITCH 📞
+
+---
+
+> Building ambitious systems, one experiment at a time.
