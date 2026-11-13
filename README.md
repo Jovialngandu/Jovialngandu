@@ -23,8 +23,9 @@ Passionate about building robust and efficient applications, exploring innovativ
 - Rust 🦀
 - FreeSWITCH 📞
 - Docker 🐳
-- Web3
-- Blockchain
+- Web3 🌐
+- Blockchain ⛓️
+
 
 ---
 
